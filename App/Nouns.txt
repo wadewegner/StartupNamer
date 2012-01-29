@@ -1,0 +1,9 @@
+data
+interaction
+connection
+fact
+info
+idea
+spirit
+experience
+core
